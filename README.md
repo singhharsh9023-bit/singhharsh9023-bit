@@ -1,57 +1,54 @@
 # 👋 Hi, I'm Harsh Raj Singh
 
-### AI/ML Student · Web Developer · UI/UX Designer · 3D Designer
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header&text=Harsh%20Raj%20Singh&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="profile.png" width="220" alt="Harsh Raj Singh">
 </p>
 
 <p align="center">
-  <b>Technology • Design • Creativity • Continuous Learning</b>
+  <strong>AI/ML Student · Web Developer · UI/UX Designer · 3D Designer · Cybersecurity Enthusiast</strong>
+</p>
+
+<p align="center">
+  <i>Building with technology, designing with creativity.</i>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning (Lateral Entry)** student at **Rungta College of Engineering & Technology**.
+I'm a technology enthusiast passionate about **Artificial Intelligence, Web Development, UI/UX Design, 3D Design, and Cybersecurity**.
 
-Before moving into AI and software, I completed a **Diploma in Mechanical Engineering**, which gave me a strong technical foundation and shaped my interest in building and designing things.
+I enjoy turning ideas into practical digital experiences — whether that's building a web interface, experimenting with AI, designing user experiences, creating 3D environments in Blender, or exploring cybersecurity.
 
-I'm interested in combining **technology and creativity** to create practical, useful, and visually engaging digital experiences.
-
-I enjoy learning by experimenting, building projects, exploring new tools, and turning ideas into working solutions.
+I learn best by **building, experimenting, and continuously improving**.
 
 ---
 
-## ⚡ What I'm Into
+## 💼 What I Do
 
-| 🤖 Artificial Intelligence | 🌐 Web Development |
-|---|---|
-| AI & Machine Learning | Frontend Development |
-| Computer Vision | React & JavaScript |
-| Generative AI | Responsive Web Design |
+### 🤖 Artificial Intelligence
+Exploring AI, Machine Learning, Computer Vision, and Generative AI through practical projects and experimentation.
 
-| 🎨 Design | 🧊 3D & Creative |
-|---|---|
-| UI/UX Design | Blender |
-| Figma | 3D Modeling |
-| Visual Design | Product Visualization |
+### 🌐 Web Development
+Building modern, responsive, and interactive web experiences with a focus on clean design and usability.
 
-| 🔐 Cybersecurity | 💡 Creative Technology |
-|---|---|
-| Networking | Digital Experiences |
-| Ethical Hacking | Experimentation |
-| Security Fundamentals | Problem Solving |
+### 🎨 UI/UX Design
+Creating intuitive interfaces and digital experiences with attention to visual hierarchy, interaction, and user experience.
+
+### 🧊 3D Design
+Creating 3D models, product visualizations, animations, materials, lighting, and rendered environments using Blender.
+
+### 🔐 Cybersecurity
+Learning networking, cybersecurity, ethical hacking, and secure technology practices.
 
 ---
 
-# 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
-### 💻 Programming & Web
+### 💻 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -61,137 +58,55 @@ I enjoy learning by experimenting, building projects, exploring new tools, and t
 ### 🎨 Design & 3D
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
 </p>
 
-`UI/UX Design` · `3D Modeling` · `3D Visualization` · `Materials` · `Lighting` · `Rendering`
+`UI/UX` · `3D Modeling` · `3D Visualization` · `Product Design` · `Animation` · `Rendering`
 
-### 🔧 Development Tools
+### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 What I Do
+## ❤️ Things I'm Passionate About
 
-### 🤖 Artificial Intelligence
-
-Explore Artificial Intelligence, Machine Learning, Computer Vision, and Generative AI through practical experimentation and hands-on development.
-
-### 🌐 Web Development
-
-Build responsive and interactive web experiences using modern web technologies, with a focus on clean interfaces and usability.
-
-### 🎨 UI/UX Design
-
-Design intuitive digital experiences with attention to layout, visual hierarchy, interaction, and user experience.
-
-### 🧊 3D Design
-
-Explore 3D modeling, product visualization, animation, materials, lighting, camera composition, and rendering using Blender.
-
-### 🔐 Cybersecurity
-
-Developing knowledge of networking, cybersecurity, ethical hacking, and secure technology practices.
+- 🤖 Artificial Intelligence & Emerging Technology
+- 🌐 Web & Frontend Development
+- 🎨 UI/UX & Digital Design
+- 🧊 3D Modeling & Blender
+- 🔐 Cybersecurity
+- 💡 Creative Technology
+- 🚀 Building New Ideas
+- 🎮 Gaming
+- 📚 Continuous Learning
 
 ---
 
-# 🎯 Currently Learning
-
-<p align="center">
-
-`Artificial Intelligence`  
-`Machine Learning`  
-`Computer Vision`  
-`Frontend Development`  
-`UI/UX Design`  
-`3D Modeling`  
-`Cybersecurity`  
-`Generative AI`
-
-</p>
-
----
-
-# 💭 My Interests
-
-<p align="center">
-
-🤖 AI & Emerging Technology  
-🌐 Web & Product Design  
-🎨 UI/UX  
-🧊 3D Design  
-🔐 Cybersecurity  
-🎮 Gaming  
-💡 Creative Projects  
-🚀 Technology Innovation
-
-</p>
-
----
-
-# 🧠 How I Learn
+## 🧠 My Approach
 
 > **Learn → Experiment → Build → Improve**
 
-I prefer hands-on learning over simply studying concepts.
+I believe the best way to learn technology is by actually building with it.
 
-I like taking an idea, experimenting with different technologies, understanding what works, and continuously improving the result.
-
-I'm always exploring new tools and technologies that help me become better at both **building and designing**.
+I'm always experimenting with new tools, technologies, and creative ideas to improve both my technical and design skills.
 
 ---
 
-# 📚 Education
+## 🎯 Currently Exploring
 
-### 🎓 B.Tech — Artificial Intelligence & Machine Learning
-**Rungta College of Engineering & Technology**  
-Lateral Entry
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Frontend Development
+UI/UX Design
+3D Modeling
+Blender
+Cybersecurity
+Generative AI
 
-### 🔧 Diploma — Mechanical Engineering
-
-Completed with a technical foundation that helped me develop an interest in engineering, problem-solving, and technology.
-
----
-
-# 🌱 Beyond Technology
-
-I enjoy exploring new ideas, experimenting with creative software, gaming, learning about emerging technologies, and connecting with people who are interested in building things.
-
-I'm particularly interested in the intersection of:
-
-**Technology × Design × Creativity**
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/harshsinghh03/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:singhharsh9023@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/singhharsh9023-bit">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Learn. Build. Create. Repeat.
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=100&section=footer"/>
-</p>
+📫 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/harshsinghh03/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:singhharsh9023@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/singhharsh9023-bit"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
