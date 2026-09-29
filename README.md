@@ -107,6 +107,3 @@ UI/UX Design
 Blender
 Cybersecurity
 Generative AI
-
-📫 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/harshsinghh03/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:singhharsh9023@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/singhharsh9023-bit"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
