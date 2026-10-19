@@ -1,56 +1,71 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harsh%20Raj%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20technology%2C%20designing%20with%20creativity&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Harsh%20Raj%20Singh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20technology%2C%20designing%20with%20creativity&descSize=18&descAlignY=60&animation=fadeIn" alt="Harsh Raj Singh" width="100%"/>
 
-<img src="harsh.jpeg" alt="Harsh Raj Singh" width="150" style="border-radius:50%; border:4px solid #38bdf8;" />
+<!-- BIG HERO IMAGE -->
+<img src="harsh.jpeg" alt="Harsh Raj Singh" width="100%" style="max-width:900px; border-radius:20px;" />
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;3D+Designer+%F0%9F%A7%8A;Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=B.Tech+AIML+Student;MERN+Stack+Developer;UI%2FUX+%26+3D+Designer;Ethical+Hacking+Enthusiast;Learn+%E2%86%92+Experiment+%E2%86%92+Build+%E2%86%92+Improve" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Design-8b5cf6?style=for-the-badge)
+<!-- STATUS BAR -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20ONLINE-0d1117?style=for-the-badge&labelColor=0d1117&color=22c55e" />
+<img src="https://img.shields.io/badge/NOW-Building%20AI%20%2B%20Web-0d1117?style=for-the-badge&labelColor=0e7490&color=0d1117" />
+<img src="https://img.shields.io/badge/STACK-MERN%20%7C%20Python-0d1117?style=for-the-badge&labelColor=6d28d9&color=0d1117" />
+<img src="https://img.shields.io/badge/OPEN%20TO-Collabs-0d1117?style=for-the-badge&labelColor=be185d&color=0d1117" />
+
+<br/><br/>
+
+<!-- SOCIALS -->
+<a href="https://typenzo.web.app/"><img src="https://img.shields.io/badge/Portfolio-typenzo.web.app-0d1117?style=for-the-badge&logo=googlechrome&logoColor=22d3ee&labelColor=0d1117&color=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/harsh-singh-3b992a396"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=60a5fa&labelColor=0d1117&color=60a5fa" /></a>
+<a href="https://www.instagram.com/soulnox._"><img src="https://img.shields.io/badge/Instagram-soulnox.__-0d1117?style=for-the-badge&logo=instagram&logoColor=f472b6&labelColor=0d1117&color=f472b6" /></a>
+<a href="https://github.com/singhharsh9023-bit"><img src="https://komarev.com/ghpvc/?username=singhharsh9023-bit&label=Views&color=0d1117&labelColor=0d1117&style=for-the-badge" /></a>
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-> *"Learn → Experiment → Build → Improve"*
-
-I'm a technology enthusiast passionate about **Artificial Intelligence**, **Web Development**, **UI/UX Design**, **3D Design** and **Cybersecurity**.
-
-I enjoy turning ideas into practical digital experiences: from building modern web apps and experimenting with AI, to designing intuitive interfaces, creating 3D environments in Blender, and exploring security.
-
-I learn best by **building, experimenting and continuously improving.**
+<br/>
 
 ---
 
-## 💼 What I Do
+## ⚡ About Me
+
+<div align="center">
+
+> **"I learn best by building, experimenting and continuously improving."**
+
+</div>
+
+I'm a **B.Tech AIML student** and **MERN stack developer** passionate about **Artificial Intelligence**, **Web Development**, **UI/UX Design**, **3D Design** and **Cybersecurity**.
+
+I turn ideas into practical digital experiences: modern web apps, AI experiments, clean interfaces, 3D scenes in Blender, and security exploration.
+
+---
+
+## 🧩 What I Do
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI & Machine Learning
-- Exploring AI & ML fundamentals
+- AI / ML fundamentals
 - Computer Vision & Generative AI
-- Building practical projects with **YOLO**
+- Practical projects with **YOLO**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Web Development
-- Modern, responsive web applications
-- Interactive UIs with clean, maintainable code
-- Frontend + backend exploration
+- MERN stack applications
+- Responsive, interactive interfaces
+- Clean, maintainable code
 
 </td>
 </tr>
@@ -58,17 +73,17 @@ I learn best by **building, experimenting and continuously improving.**
 <td width="50%" valign="top">
 
 ### 🎨 UI/UX Design
-- Intuitive, visually appealing interfaces
-- Usability, visual hierarchy & interaction design
-- Creative ideas → practical experiences
+- Clear visual hierarchy
+- Usability-first interaction design
+- Ideas → polished interfaces
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧊 3D Design
 - Models & environments in **Blender**
-- Materials, lighting, rendering, animation
-- Product visualization & stylized 3D art
+- Materials, lighting, rendering
+- Product visualization & stylized art
 
 </td>
 </tr>
@@ -76,9 +91,7 @@ I learn best by **building, experimenting and continuously improving.**
 <td colspan="2" valign="top">
 
 ### 🔐 Cybersecurity
-- Networking & security fundamentals
-- Ethical hacking & vulnerability assessment
-- Security analysis and responsible testing
+Networking fundamentals · Ethical hacking · Vulnerability assessment · Responsible testing
 
 </td>
 </tr>
@@ -86,39 +99,20 @@ I learn best by **building, experimenting and continuously improving.**
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**💻 Programming & Development**
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express&theme=dark" alt="dev" />
-
-**🎨 Design & 3D**
-
-<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="design" />
-
-**🔧 Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express,mongodb&theme=dark" alt="dev" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,blender,git,github,vscode&theme=dark" alt="tools" />
 
 <br/><br/>
 
-**🤖 AI & ML**
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0ea5e9?style=flat-square)
-![ML](https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=flat-square)
-![CV](https://img.shields.io/badge/Computer%20Vision-ec4899?style=flat-square)
-![GenAI](https://img.shields.io/badge/Generative%20AI-f59e0b?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-22c55e?style=flat-square)
-
-**🎨 Design Focus**
-
-![UIUX](https://img.shields.io/badge/UI%2FUX%20Design-f43f5e?style=flat-square)
-![3D](https://img.shields.io/badge/3D%20Modeling-0ea5e9?style=flat-square)
-![Viz](https://img.shields.io/badge/3D%20Visualization-8b5cf6?style=flat-square)
-![Anim](https://img.shields.io/badge/Animation-f59e0b?style=flat-square)
-![Render](https://img.shields.io/badge/Rendering-22c55e?style=flat-square)
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=f59e0b&labelColor=0d1117&color=f59e0b" />
+<img src="https://img.shields.io/badge/Computer-Vision-0d1117?style=for-the-badge&logo=opencv&logoColor=22d3ee&labelColor=0d1117&color=22d3ee" />
+<img src="https://img.shields.io/badge/Generative-AI-0d1117?style=for-the-badge&logo=openai&logoColor=a78bfa&labelColor=0d1117&color=a78bfa" />
+<img src="https://img.shields.io/badge/YOLO-Detection-0d1117?style=for-the-badge&logoColor=22c55e&labelColor=0d1117&color=22c55e" />
 
 </div>
 
@@ -126,28 +120,13 @@ I learn best by **building, experimenting and continuously improving.**
 
 ## 🎯 Currently Exploring
 
-| Area | Focus |
-|------|-------|
+| | Focus |
+|:--|:--|
 | 🤖 **AI / ML** | Computer Vision, Generative AI |
-| ⚛️ **Frontend** | React & modern UI development |
+| ⚛️ **Frontend** | React & modern UI engineering |
 | 🎨 **Design** | UI/UX principles, design systems |
-| 🧊 **3D** | Blender: lighting, materials, rendering |
+| 🧊 **3D** | Blender lighting, materials, rendering |
 | 🔐 **Security** | Vulnerability assessment, ethical hacking |
-
----
-
-## 🚀 Featured Interests
-
-<div align="center">
-
-![AI](https://img.shields.io/badge/🤖_AI_&_Emerging_Tech-0f172a?style=for-the-badge&labelColor=0ea5e9)
-![Web](https://img.shields.io/badge/🌐_Web_&_Frontend-0f172a?style=for-the-badge&labelColor=8b5cf6)
-![Design](https://img.shields.io/badge/🎨_UI/UX_&_Digital_Design-0f172a?style=for-the-badge&labelColor=ec4899)
-![3D](https://img.shields.io/badge/🧊_3D_&_Blender-0f172a?style=for-the-badge&labelColor=f59e0b)
-![Sec](https://img.shields.io/badge/🔐_Cybersecurity-0f172a?style=for-the-badge&labelColor=22c55e)
-![Gaming](https://img.shields.io/badge/🎮_Gaming-0f172a?style=for-the-badge&labelColor=ef4444)
-
-</div>
 
 ---
 
@@ -155,38 +134,32 @@ I learn best by **building, experimenting and continuously improving.**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=singhharsh9023-bit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=a78bfa" alt="stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhharsh9023-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee" alt="languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=singhharsh9023-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=a78bfa&currStreakLabel=22d3ee" alt="streak" />
 
 </div>
 
 ---
 
-## 🧠 My Approach
+## 🚀 Interests
+
+<div align="center">
+
+`AI & Emerging Tech` · `Web & Frontend` · `UI/UX` · `3D & Blender` · `Cybersecurity` · `Creative Tech` · `Gaming` · `Continuous Learning`
+
+</div>
+
+---
 
 <div align="center">
 
 ### `Learn` → `Experiment` → `Build` → `Improve`
 
-*Every project is an opportunity to explore new ideas, strengthen my skills and create something meaningful.*
-
-</div>
-
----
-
-## 🌱 My Goal
-
-To combine **technology, creativity and problem-solving** to build useful digital products, explore innovative ideas, and keep growing as a developer and designer.
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile! Let's build something amazing. 🚀**
+*Thanks for visiting. Let's build something amazing.* 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
 
