@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Raj Singh
 
 <p align="center">
-  <img src="profile.png" width="220" alt="Harsh Raj Singh">
+  <img src="profile.png" width="280" alt="Harsh Raj Singh" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <i>Building with technology, designing with creativity.</i>
+  <em>Building with technology, designing with creativity.</em>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 I'm a technology enthusiast passionate about **Artificial Intelligence, Web Development, UI/UX Design, 3D Design, and Cybersecurity**.
 
-I enjoy turning ideas into practical digital experiences — whether that's building a web interface, experimenting with AI, designing user experiences, creating 3D environments in Blender, or exploring cybersecurity.
+I enjoy turning ideas into practical digital experiences — from building modern web applications and experimenting with AI to designing intuitive interfaces, creating 3D environments in Blender, and exploring cybersecurity.
 
 I learn best by **building, experimenting, and continuously improving**.
 
@@ -26,29 +26,39 @@ I learn best by **building, experimenting, and continuously improving**.
 
 ## 💼 What I Do
 
-### 🤖 Artificial Intelligence
-Exploring AI, Machine Learning, Computer Vision, and Generative AI through practical projects and experimentation.
+### 🤖 Artificial Intelligence & Machine Learning
+- Exploring Artificial Intelligence and Machine Learning.
+- Experimenting with Computer Vision and Generative AI.
+- Building practical AI-powered projects and exploring YOLO.
 
 ### 🌐 Web Development
-Building modern, responsive, and interactive web experiences with a focus on clean design and usability.
+- Building modern, responsive web applications.
+- Developing interactive interfaces with clean, maintainable code.
+- Exploring frontend and backend technologies.
 
 ### 🎨 UI/UX Design
-Creating intuitive interfaces and digital experiences with attention to visual hierarchy, interaction, and user experience.
+- Designing intuitive and visually appealing user interfaces.
+- Focusing on usability, visual hierarchy, and interaction design.
+- Turning creative ideas into practical digital experiences.
 
 ### 🧊 3D Design
-Creating 3D models, product visualizations, animations, materials, lighting, and rendered environments using Blender.
+- Creating 3D models and environments using Blender.
+- Exploring materials, lighting, rendering, and animation.
+- Experimenting with product visualization and stylized 3D artwork.
 
 ### 🔐 Cybersecurity
-Learning networking, cybersecurity, ethical hacking, and secure technology practices.
+- Learning networking and cybersecurity fundamentals.
+- Exploring ethical hacking and vulnerability assessment.
+- Practicing security analysis and responsible testing.
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Development
+### 💻 Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" alt="Programming and development technologies" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -58,28 +68,29 @@ Learning networking, cybersecurity, ethical hacking, and secure technology pract
 ### 🎨 Design & 3D
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://skillicons.dev/icons?i=figma,blender" alt="Figma and Blender" />
 </p>
 
-`UI/UX` · `3D Modeling` · `3D Visualization` · `Product Design` · `Animation` · `Rendering`
+`UI/UX Design` · `3D Modeling` · `3D Visualization` · `Product Design` · `Animation` · `Rendering`
 
-### 🔧 Tools
+### 🔧 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
 </p>
+
+`Git` · `GitHub` · `VS Code`
 
 ---
 
-## ❤️ Things I'm Passionate About
+## 🚀 Featured Interests
 
 - 🤖 Artificial Intelligence & Emerging Technology
 - 🌐 Web & Frontend Development
 - 🎨 UI/UX & Digital Design
 - 🧊 3D Modeling & Blender
-- 🔐 Cybersecurity
+- 🔐 Cybersecurity & Ethical Hacking
 - 💡 Creative Technology
-- 🚀 Building New Ideas
 - 🎮 Gaming
 - 📚 Continuous Learning
 
@@ -87,23 +98,33 @@ Learning networking, cybersecurity, ethical hacking, and secure technology pract
 
 ## 🧠 My Approach
 
-> **Learn → Experiment → Build → Improve**
+<p align="center">
+  <strong>Learn → Experiment → Build → Improve</strong>
+</p>
 
-I believe the best way to learn technology is by actually building with it.
+I believe the best way to understand technology is by building real projects, learning from challenges, and continuously improving.
 
-I'm always experimenting with new tools, technologies, and creative ideas to improve both my technical and design skills.
+Every project is an opportunity to explore new ideas, strengthen my skills, and create something meaningful.
 
 ---
 
 ## 🎯 Currently Exploring
 
-```text
-Artificial Intelligence
-Machine Learning
-Computer Vision
-Frontend Development
-UI/UX Design
-3D Modeling
-Blender
-Cybersecurity
-Generative AI
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Generative AI
+- React & Frontend Development
+- UI/UX Design
+- 3D Modeling & Blender
+- Cybersecurity & Vulnerability Assessment
+
+---
+
+## 🌱 My Goal
+
+To combine **technology, creativity, and problem-solving** to build useful digital products, explore innovative ideas, and keep growing as a developer and designer.
+
+---
+
+<p align="center">
+  <em>Thanks for visiting my profile! Let's build something amazing. 🚀</em>
+</p>
