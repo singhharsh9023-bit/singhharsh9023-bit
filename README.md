@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Harsh Raj Singh
 
 <p align="center">
-  <img src="profile.png" width="500" alt="Harsh Raj Singh" />
+  <img src="harsh.jpeg" alt="Harsh Raj Singh — Creative Developer" />
 </p>
 
 <p align="center">
