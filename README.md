@@ -1,130 +1,193 @@
-# 👋 Hi, I'm Harsh Raj Singh
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="harsh.jpeg" alt="Harsh Raj Singh — Creative Developer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harsh%20Raj%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Building%20with%20technology%2C%20designing%20with%20creativity&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
-<p align="center">
-  <strong>AI/ML Student · Web Developer · UI/UX Designer · 3D Designer · Cybersecurity Enthusiast</strong>
-</p>
+<img src="harsh.jpeg" alt="Harsh Raj Singh" width="150" style="border-radius:50%; border:4px solid #38bdf8;" />
 
-<p align="center">
-  <em>Building with technology, designing with creativity.</em>
-</p>
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=AI%2FML+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;UI%2FUX+Designer+%F0%9F%8E%A8;3D+Designer+%F0%9F%A7%8A;Cybersecurity+Enthusiast+%F0%9F%94%90" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0ea5e9&style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-22c55e?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Design-8b5cf6?style=for-the-badge)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a technology enthusiast passionate about **Artificial Intelligence, Web Development, UI/UX Design, 3D Design, and Cybersecurity**.
+> *"Learn → Experiment → Build → Improve"*
 
-I enjoy turning ideas into practical digital experiences — from building modern web applications and experimenting with AI to designing intuitive interfaces, creating 3D environments in Blender, and exploring cybersecurity.
+I'm a technology enthusiast passionate about **Artificial Intelligence**, **Web Development**, **UI/UX Design**, **3D Design** and **Cybersecurity**.
 
-I learn best by **building, experimenting, and continuously improving**.
+I enjoy turning ideas into practical digital experiences: from building modern web apps and experimenting with AI, to designing intuitive interfaces, creating 3D environments in Blender, and exploring security.
+
+I learn best by **building, experimenting and continuously improving.**
 
 ---
 
 ## 💼 What I Do
 
-### 🤖 Artificial Intelligence & Machine Learning
-- Exploring Artificial Intelligence and Machine Learning.
-- Experimenting with Computer Vision and Generative AI.
-- Building practical AI-powered projects and exploring YOLO.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI & Machine Learning
+- Exploring AI & ML fundamentals
+- Computer Vision & Generative AI
+- Building practical projects with **YOLO**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Web Development
-- Building modern, responsive web applications.
-- Developing interactive interfaces with clean, maintainable code.
-- Exploring frontend and backend technologies.
+- Modern, responsive web applications
+- Interactive UIs with clean, maintainable code
+- Frontend + backend exploration
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎨 UI/UX Design
-- Designing intuitive and visually appealing user interfaces.
-- Focusing on usability, visual hierarchy, and interaction design.
-- Turning creative ideas into practical digital experiences.
+- Intuitive, visually appealing interfaces
+- Usability, visual hierarchy & interaction design
+- Creative ideas → practical experiences
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧊 3D Design
-- Creating 3D models and environments using Blender.
-- Exploring materials, lighting, rendering, and animation.
-- Experimenting with product visualization and stylized 3D artwork.
+- Models & environments in **Blender**
+- Materials, lighting, rendering, animation
+- Product visualization & stylized 3D art
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🔐 Cybersecurity
-- Learning networking and cybersecurity fundamentals.
-- Exploring ethical hacking and vulnerability assessment.
-- Practicing security analysis and responsible testing.
+- Networking & security fundamentals
+- Ethical hacking & vulnerability assessment
+- Security analysis and responsible testing
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming & Development
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express" alt="Programming and development technologies" />
-</p>
+**💻 Programming & Development**
 
-### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,express&theme=dark" alt="dev" />
 
-`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Generative AI` · `YOLO`
+**🎨 Design & 3D**
 
-### 🎨 Design & 3D
+<img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="design" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender" alt="Figma and Blender" />
-</p>
+**🔧 Developer Tools**
 
-`UI/UX Design` · `3D Modeling` · `3D Visualization` · `Product Design` · `Animation` · `Rendering`
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" />
 
-### 🔧 Developer Tools
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
-</p>
+**🤖 AI & ML**
 
-`Git` · `GitHub` · `VS Code`
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0ea5e9?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=flat-square)
+![CV](https://img.shields.io/badge/Computer%20Vision-ec4899?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative%20AI-f59e0b?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-22c55e?style=flat-square)
 
----
+**🎨 Design Focus**
 
-## 🚀 Featured Interests
+![UIUX](https://img.shields.io/badge/UI%2FUX%20Design-f43f5e?style=flat-square)
+![3D](https://img.shields.io/badge/3D%20Modeling-0ea5e9?style=flat-square)
+![Viz](https://img.shields.io/badge/3D%20Visualization-8b5cf6?style=flat-square)
+![Anim](https://img.shields.io/badge/Animation-f59e0b?style=flat-square)
+![Render](https://img.shields.io/badge/Rendering-22c55e?style=flat-square)
 
-- 🤖 Artificial Intelligence & Emerging Technology
-- 🌐 Web & Frontend Development
-- 🎨 UI/UX & Digital Design
-- 🧊 3D Modeling & Blender
-- 🔐 Cybersecurity & Ethical Hacking
-- 💡 Creative Technology
-- 🎮 Gaming
-- 📚 Continuous Learning
-
----
-
-## 🧠 My Approach
-
-<p align="center">
-  <strong>Learn → Experiment → Build → Improve</strong>
-</p>
-
-I believe the best way to understand technology is by building real projects, learning from challenges, and continuously improving.
-
-Every project is an opportunity to explore new ideas, strengthen my skills, and create something meaningful.
+</div>
 
 ---
 
 ## 🎯 Currently Exploring
 
-- Artificial Intelligence & Machine Learning
-- Computer Vision & Generative AI
-- React & Frontend Development
-- UI/UX Design
-- 3D Modeling & Blender
-- Cybersecurity & Vulnerability Assessment
+| Area | Focus |
+|------|-------|
+| 🤖 **AI / ML** | Computer Vision, Generative AI |
+| ⚛️ **Frontend** | React & modern UI development |
+| 🎨 **Design** | UI/UX principles, design systems |
+| 🧊 **3D** | Blender: lighting, materials, rendering |
+| 🔐 **Security** | Vulnerability assessment, ethical hacking |
+
+---
+
+## 🚀 Featured Interests
+
+<div align="center">
+
+![AI](https://img.shields.io/badge/🤖_AI_&_Emerging_Tech-0f172a?style=for-the-badge&labelColor=0ea5e9)
+![Web](https://img.shields.io/badge/🌐_Web_&_Frontend-0f172a?style=for-the-badge&labelColor=8b5cf6)
+![Design](https://img.shields.io/badge/🎨_UI/UX_&_Digital_Design-0f172a?style=for-the-badge&labelColor=ec4899)
+![3D](https://img.shields.io/badge/🧊_3D_&_Blender-0f172a?style=for-the-badge&labelColor=f59e0b)
+![Sec](https://img.shields.io/badge/🔐_Cybersecurity-0f172a?style=for-the-badge&labelColor=22c55e)
+![Gaming](https://img.shields.io/badge/🎮_Gaming-0f172a?style=for-the-badge&labelColor=ef4444)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top langs" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+</div>
+
+---
+
+## 🧠 My Approach
+
+<div align="center">
+
+### `Learn` → `Experiment` → `Build` → `Improve`
+
+*Every project is an opportunity to explore new ideas, strengthen my skills and create something meaningful.*
+
+</div>
 
 ---
 
 ## 🌱 My Goal
 
-To combine **technology, creativity, and problem-solving** to build useful digital products, explore innovative ideas, and keep growing as a developer and designer.
+To combine **technology, creativity and problem-solving** to build useful digital products, explore innovative ideas, and keep growing as a developer and designer.
 
 ---
 
-<p align="center">
-  <em>Thanks for visiting my profile! Let's build something amazing. 🚀</em>
-</p>
+<div align="center">
+
+**Thanks for visiting my profile! Let's build something amazing. 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
